@@ -1,1 +1,1 @@
-Prelude> putStrLn "Hello World"
+putStrLn "Hello World"
